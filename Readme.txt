@@ -14,3 +14,6 @@
 
 3. Execute Maven goal generate sources to create Java classes from WSDL
     mvn jaxb2:generate
+
+
+Issues with Project Server wsdl - several of the XML objects are not known to build equivalent Java classes
